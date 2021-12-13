@@ -19,6 +19,7 @@ class BST
     end
 
     def insert(value)
+        puts value
     end
 
     def left
